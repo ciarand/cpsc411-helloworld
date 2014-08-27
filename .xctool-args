@@ -1,0 +1,4 @@
+[
+  "-scheme", "cpsc411-assignment-a",
+  "-configuration", "Debug"
+]
