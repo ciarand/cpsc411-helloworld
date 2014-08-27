@@ -1,7 +1,10 @@
-compile:
+compile: clean
 	xctool archive -archivePath output
 
-run:
+run: compile
 	output.xcarchive/Products/usr/local/bin/cpsc411-assignment-a
 
-.PHONY: compile run
+clean:
+	rm -rf ./output.xcarchive
+
+.PHONY: compile run clean
