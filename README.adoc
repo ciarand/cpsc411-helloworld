@@ -1,0 +1,45 @@
+CPSC 411 - Hello World assignment
+=================================
+
+[quote, Professor]
+____
+Using Xcode, create a Mac OS X Command Line Application project. The type of
+the project must be Foundation. The program needs to do the following:
+
+- [x] Interactively read a string from the user.
+
+- [x] Store the string as an NSString not a char*.
+
+- [x] Output the NSString to stdout.
+
+- [x] Using NSDate, output the current date and time.
+
+- [x] Do not use C++ or Objective-C++. Limit yourself to Objective-C.
+
+- [x] Use the debugger to step through your program.
+
+Be able to answer the following questions:
+
+- What is the name and version of the compiler used?
+
+  Apple LLVM 5.1
+
+- Where is your project file and source code stored?
+
+  Project file (`main.m`) is stored under `cpsc411-assignment-a/main.m`
+
+- Where are the intermediate files stored?
+
+  In the same folder (`cpsc411-assignment-a/cpsc_assignment_a.1`)
+
+- Where is the application bundle stored?
+
+  Depends on the project settings.
+
+- Where is the project's binary executable stored?
+
+  Wherever you tell it, in my case:
+
+  `~/Library/Developer/Xcode/DerivedData/cpsc411-assignment-a-{KEY}/Build/Products/{TARGET}/cpsc411-assignment-a`
+
+____
