@@ -3,3 +3,5 @@ compile:
 
 run:
 	output.xcarchive/Products/usr/local/bin/cpsc411-assignment-a
+
+.PHONY: compile run
