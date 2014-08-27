@@ -1,7 +1,7 @@
 CPSC 411 - Hello World assignment
 =================================
 
-[quote, Professor]
+[quote]
 ____
 Using Xcode, create a Mac OS X Command Line Application project. The type of
 the project must be Foundation. The program needs to do the following:
@@ -43,3 +43,7 @@ Be able to answer the following questions:
   `~/Library/Developer/Xcode/DerivedData/cpsc411-assignment-a-{KEY}/Build/Products/{TARGET}/cpsc411-assignment-a`
 
 ____
+
+License
+-------
+BSD, check the LICENSE file.
