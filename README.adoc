@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 CPSC 411 - Hello World assignment
 =================================
 
